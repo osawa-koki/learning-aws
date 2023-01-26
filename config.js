@@ -43,7 +43,7 @@ const config = {
     links: [{ text: 'osawa-koki', link: myGithubUrl }],
     frontLine: false,
     ignoreIndex: true,
-    title: `<a href='${myGithubUrl}'>Terraform </a><div class='greenCircle'></div><a href='${myGithubUrl}?tab=repositories'>repos</a>`,
+    title: `<a href='${myGithubUrl}'>osawa-koki</a><div class='greenCircle'></div><a href='${myGithubUrl}?tab=repositories'>repos</a>`,
   },
   siteMetadata: {
     title: 'Tutorial Template | osawa-koki',
